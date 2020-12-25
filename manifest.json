@@ -1,0 +1,7 @@
+{
+	"background_color": "black",
+	"theme_color": "black",
+	"display": "standalone",
+	"name": "Random Word",
+	"start_url": "/index.html"
+}
