@@ -3,5 +3,9 @@
 	"theme_color": "#000",
 	"display": "standalone",
 	"name": "Random Word",
-	"start_url": "/index.html"
+	"start_url": "/index.html",
+	"icons": [
+		"src": "one word.png",
+		"sizes": "128x128"
+	]
 }
