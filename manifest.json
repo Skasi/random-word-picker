@@ -5,7 +5,9 @@
 	"name": "Random Word",
 	"start_url": "/index.html",
 	"icons": [
-		"src": "one word.png",
-		"sizes": "128x128"
+		{
+			"src": "one word.png",
+			"sizes": "128x128"
+		}
 	]
 }
