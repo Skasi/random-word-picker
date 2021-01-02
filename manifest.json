@@ -1,13 +1,16 @@
 {
-	"background_color": "#000",
-	"theme_color": "#000",
+	"background_color": "#000"
+	"description": "Zeigt zufällige Worte an.",
 	"display": "standalone",
-	"name": "Random Word",
-	"start_url": "/index.html",
 	"icons": [
 		{
 			"src": "one word.png",
-			"sizes": "128x128"
+			"sizes": "128x128",
+			"type": "image/png"
 		}
 	]
+	"name": "Word Randomizer",
+	"short_name": "Random Words",
+	"start_url": "/index.html",,
+	"theme_color": "#000",
 }
