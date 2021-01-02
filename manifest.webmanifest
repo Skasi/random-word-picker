@@ -11,6 +11,6 @@
 	],
 	"name": "Word Randomizer",
 	"short_name": "Random Words",
-	"start_url": "./index.html",
+	"start_url": "/random-word-picker/index.html",
 	"theme_color": "#000"
 }
